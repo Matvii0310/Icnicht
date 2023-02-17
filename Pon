@@ -1,0 +1,7 @@
+g = int(intput("g = "))
+l = int(intput("l = "))
+try:
+try:
+    print(g*l)
+except TypeError as error:
+    print(error)
