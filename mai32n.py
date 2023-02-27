@@ -12,8 +12,3 @@ for key in data:
 
 print(result)
 
-
-
-
-
-
